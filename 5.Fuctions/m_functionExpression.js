@@ -20,5 +20,5 @@ show();
 // disp();
 var disp = function show() {
     console.log("Function Expression");
-}
+};
 disp();
